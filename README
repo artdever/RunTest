@@ -1,0 +1,17 @@
+# Precondition
+install Python3.9
+
+# Before running
+
+runTest.sh must be in the same directory with script.
+
+## Usage
+
+Run main.py
+```bash
+python3 ./main.py
+```
+
+## Result
+
+The result will be in the test_result.log file.
